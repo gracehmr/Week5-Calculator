@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Week5-Calculator/static/css/main.d60307ec.chunk.css",
+    "main.js": "/Week5-Calculator/static/js/main.31179be0.chunk.js",
+    "main.js.map": "/Week5-Calculator/static/js/main.31179be0.chunk.js.map",
+    "runtime-main.js": "/Week5-Calculator/static/js/runtime-main.f53ad41b.js",
+    "runtime-main.js.map": "/Week5-Calculator/static/js/runtime-main.f53ad41b.js.map",
+    "static/js/2.f0b58089.chunk.js": "/Week5-Calculator/static/js/2.f0b58089.chunk.js",
+    "static/js/2.f0b58089.chunk.js.map": "/Week5-Calculator/static/js/2.f0b58089.chunk.js.map",
+    "static/js/3.3c83b78e.chunk.js": "/Week5-Calculator/static/js/3.3c83b78e.chunk.js",
+    "static/js/3.3c83b78e.chunk.js.map": "/Week5-Calculator/static/js/3.3c83b78e.chunk.js.map",
+    "index.html": "/Week5-Calculator/index.html",
+    "static/css/main.d60307ec.chunk.css.map": "/Week5-Calculator/static/css/main.d60307ec.chunk.css.map",
+    "static/js/2.f0b58089.chunk.js.LICENSE.txt": "/Week5-Calculator/static/js/2.f0b58089.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f53ad41b.js",
+    "static/js/2.f0b58089.chunk.js",
+    "static/css/main.d60307ec.chunk.css",
+    "static/js/main.31179be0.chunk.js"
+  ]
+}
